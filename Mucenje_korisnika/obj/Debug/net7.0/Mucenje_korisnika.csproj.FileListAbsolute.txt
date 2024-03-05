@@ -1,0 +1,14 @@
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\bin\Debug\net7.0\Mucenje_korisnika.exe
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\bin\Debug\net7.0\Mucenje_korisnika.deps.json
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\bin\Debug\net7.0\Mucenje_korisnika.runtimeconfig.json
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\bin\Debug\net7.0\Mucenje_korisnika.dll
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\bin\Debug\net7.0\Mucenje_korisnika.pdb
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\obj\Debug\net7.0\Mucenje_korisnika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\obj\Debug\net7.0\Mucenje_korisnika.AssemblyInfoInputs.cache
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\obj\Debug\net7.0\Mucenje_korisnika.AssemblyInfo.cs
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\obj\Debug\net7.0\Mucenje_korisnika.csproj.CoreCompileInputs.cache
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\obj\Debug\net7.0\Mucenje_korisnika.dll
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\obj\Debug\net7.0\refint\Mucenje_korisnika.dll
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\obj\Debug\net7.0\Mucenje_korisnika.pdb
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\obj\Debug\net7.0\Mucenje_korisnika.genruntimeconfig.cache
+C:\Users\Nikola_Popovic\source\repos\Mucenje_korisnika\Mucenje_korisnika\obj\Debug\net7.0\ref\Mucenje_korisnika.dll
